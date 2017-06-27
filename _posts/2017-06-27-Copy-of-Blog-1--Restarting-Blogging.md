@@ -1,5 +1,5 @@
 ---
-title: Copy of Blog 1- Restarting Blogging
+title: Blog 1- Restarting Blogging
 layout: post
 author: josh.williams
 permalink: /copy-of-blog-1--restarting-blogging/
