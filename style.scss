@@ -18,9 +18,14 @@ html {
 }
 
 body {
-	background: #800000;
+	background: #A9A9A9;
   font: 18px/1.4 $helvetica;
-  color: #f2f2f2;
+  color: ;
+  text-decoration: none;
+	cursor: pointer;
+  &:hover, &:active {
+    color: $white;
+  }
 }
 
 .container {
